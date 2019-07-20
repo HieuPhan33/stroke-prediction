@@ -4260,7 +4260,7 @@ id,sex and age,high_BP,heart_condition_detected_2017,married,job_status and livi
 35412,"M, 56",0,0,1,government?Remote,231.73,32.2,quit,,,,,0
 1517,"F, 41",1,0,1,City?private_sector,142.54,44.1,non-smoker,,,,,0
 28774,"F, 31",0,0,0,private_sector?Remote,145.13,36.3,active_smoker,,,,,0
-42816,"F, 71",0,1,1,business_owner?City,60.83,,quit,0,0,1,0+E1860:E1868,0
+42816,"F, 71",0,1,1,business_owner?City,60.83,,quit,0,0,1,0,0
 21519,"61, M",1,0,1,government?Remote,111.19,33.1,active_smoker,,,,,0
 39161,"F, 63",0,0,1,private_sector?Remote,153.64,41,non-smoker,,,,,0
 8462,"M, 57",0,0,0,private_sector?Remote,92.56,25.5,non-smoker,,,,,0
